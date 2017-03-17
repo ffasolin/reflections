@@ -1,11 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	a .git file is created and you're able to control it via git - not sure
+	a .git file is created and you're able to control it via git
+	if you don't you won't be able to use version control on the files in the repo
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	staging area selects the files you currently want to commit in the repository and the working directory is the directory you're in - not sure
+	staging area selects the files you currently want to commit in the repository and the working directory is the directory you're working in/changing files before staging
 
 How can you use the staging area to make sure you have one commit per logical
 change?
